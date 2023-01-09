@@ -6,6 +6,7 @@ declare module '@emotion/react' {
       darkblue: string;
       pastelblue: string;
       lightblue: string;
+      pink: string;
     };
     mq: {
       mobile: string;
@@ -21,6 +22,7 @@ declare module '@mui/material/styles' {
       darkblue: string;
       pastelblue: string;
       lightblue: string;
+      pink: string;
     };
     mq: {
       mobile: string;
@@ -33,6 +35,7 @@ declare module '@mui/material/styles' {
       darkblue?: string;
       pastelblue?: string;
       lightblue?: string;
+      pink?: string;
     };
     mq?: {
       mobile?: string;

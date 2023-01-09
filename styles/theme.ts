@@ -5,6 +5,7 @@ export const theme = createTheme({
     darkblue: '#060433',
     pastelblue: '#2B3467',
     lightblue: '#2F3980',
+    pink: '#ff4057',
   },
   mq: {
     mobile: '767px',
