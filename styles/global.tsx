@@ -2,7 +2,7 @@ import { css } from '@emotion/react';
 
 export const ResetStyle = css`
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
-
+  @import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
   html,
   body,
   div,
